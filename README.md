@@ -28,3 +28,13 @@ It would also be important to consider rainfall averages, as those will also aff
 Though this initially sounds like a lot of closed days for rain, December shows that 75% of the reported days have less than 0.15 inches of rain and June has 75% with less than 0.12 inches. It appears that most of these showers are very short in duration and should not cause extended closures of the shop. 
 
 
+
+**Station Information**
+
+
+It is also worth looking into which stations were most active at the time of data collection. If the stations that were providing data were vastly different between the December months and the June months, it could cause skewed data. 
+<p align="center" width="100%">
+    <img width="41%" src=https://user-images.githubusercontent.com/105991478/184449617-81132dad-eb69-4583-8aa6-d2eed9a671d4.png>  <img width="40%" src=https://user-images.githubusercontent.com/105991478/184449623-e9bb164e-9136-4606-bda8-592e6ad8f929.png>  
+</p>
+
+
