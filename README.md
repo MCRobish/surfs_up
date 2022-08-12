@@ -7,5 +7,10 @@ The purpose of this challenge is to understand the temperature trends in Oahu in
 * According to the summary statistics, only 25% of the days in December for the last 7 years have been colder than 669 degrees F. This is colder than the lower quartile for June at 73 degrees F; however, both could still be considered ice cream weather. 
 <p align="center" width="100%">
     <img width="41%" src=https://user-images.githubusercontent.com/105991478/184436029-efefcf05-4b8f-4956-ab39-c3d977c9d71f.png>  <img width="45%" src=https://user-images.githubusercontent.com/105991478/184436040-dd7532b2-3846-48f9-b133-17f54e7695d6.png>
+</p>
+
+<p align="center" width="100%">
+    <img width="30%" src=https://user-images.githubusercontent.com/105991478/184438230-959d94cd-a522-4345-8d71-05224c8f0ade.png>  <img width="28.75%" src=https://user-images.githubusercontent.com/105991478/184439191-d4d2db96-20da-427f-8b26-f6ab4f2e2977.png>  
+
 
 
