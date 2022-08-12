@@ -37,4 +37,9 @@ It is also worth looking into which stations were most active at the time of dat
     <img width="41%" src=https://user-images.githubusercontent.com/105991478/184449617-81132dad-eb69-4583-8aa6-d2eed9a671d4.png>  <img width="40%" src=https://user-images.githubusercontent.com/105991478/184449623-e9bb164e-9136-4606-bda8-592e6ad8f929.png>  
 </p>
 
+It appears that the top contribuiting stations were more active in June than in December resulting in more total data points for June. However, the change is minimal for a 7 year period and all stations are represented in similar proportions across the two data sets. 
 
+
+**Conclusions**
+
+The weather dataset provided shows measurements from 9 different weather stations around Oahu, with the stations in Waihee and Kaneohe contributing the most frequently. Based on the dataset provided, it appears that Oahu has warm temperatures all year. It also has regular rainfall, but appears to be shorter showers most of the time. Overall, it seems that the climate would work well for a surf shop and ice cream store. 
